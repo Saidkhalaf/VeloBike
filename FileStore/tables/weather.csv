@@ -1,0 +1,5 @@
+weather_id,temperature,condition,weather_type
+1,>=15,Sunny,pleasant
+2,<15,Rainy,unpleasant
+3,<15 and >-10,Cloudy,natural
+4,any,unknown,unknown

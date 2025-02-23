@@ -1,0 +1,50 @@
+{
+    "coord": {
+        "lon": 4.4333,
+        "lat": 51.2
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 15.45,
+        "feels_like": 15.37,
+        "temp_min": 14.94,
+        "temp_max": 16.16,
+        "pressure": 1000,
+        "humidity": 89,
+        "sea_level": 1000,
+        "grnd_level": 999
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.79,
+        "deg": 68,
+        "gust": 2.68
+    },
+    "rain": {
+        "1h": 0.29
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1728327497,
+    "sys": {
+        "type": 2,
+        "id": 2006860,
+        "country": "BE",
+        "sunrise": 1728280369,
+        "sunset": 1728320815
+    },
+    "timezone": 7200,
+    "id": 0,
+    "name": "Antwerpen Berchem",
+    "cod": 200,
+    "zipCode": "2600"
+}
